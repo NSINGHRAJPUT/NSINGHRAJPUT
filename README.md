@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @NSINGHRAJPUT
 - 👀 I’m interested in Front End Web Developer role
-- 🌱 I’m currently learning  Front End Web Development with React.  
+- 🌱 I’m currently learning  Back End Web Development with NodeJS.  
 - 💞️ I’m looking to collaborate on projects related react
 - 📫 gmail:-nsinghrajput30@gmail.com/9752661779
 
