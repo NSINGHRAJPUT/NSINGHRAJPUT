@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @NSINGHRAJPUT
+- 👋 Hi, I’m NEERAJ SINGH RAJPUT
 - 👀 I’m interested in Front End Web Developer role
 - 🌱 I’m currently learning  Back End Web Development with NodeJS.  
 - 💞️ I’m looking to collaborate on projects related react
