@@ -1,46 +1,65 @@
 <h1 align="center">Hi 👋, I'm Neeraj Singh Rajput</h1>
-<h3 align="center">Full Stack Developer | MERN | Next.js | DevOps Enthusiast</h3>
+<h3 align="center">🚀 Full Stack Developer | MERN | Next.js | DevOps & Cloud Enthusiast</h3>
 
 ---
 
-- 🔭 Currently working with **MERN Stack**, **Next.js**, **React Native**, and **Electron.js**
-- 🌱 Learning **Angular** and diving deeper into **DevOps** & **Cloud (AWS/Azure)**
-- 👯 I’m open to collaborate on **full-stack projects**, **cross-platform apps**, or **open source tools**
-- 💬 Ask me about anything related to **JavaScript, Node.js, MongoDB, or CI/CD**
-- 📫 Reach me at: **nsinghrajputx@gmail.com** | 📞 +91 9752661779  
-- 🌐 Portfolio: [nsrgfx.in](https://www.nsrgfx.in)
+### 👨‍💻 About Me
+
+- 🧠 Passionate about building **scalable full-stack applications**, REST APIs, and real-world solutions.
+- 🔭 Currently exploring **Angular**, **microservices**, and **AI-powered apps**.
+- ⚙️ Experienced in deploying and managing projects on **Azure**, **AWS**, and setting up **CI/CD pipelines** with GitHub Actions & Azure DevOps.
+- 🔌 Integrated real-time features, payment gateways (Stripe, Razorpay, PayPal), and cloud storage (Blob, S3).
+- 📱 Also developed cross-platform apps using **React Native** and **Electron.js**.
 
 ---
 
 ### 🛠️ Tech Stack
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
-![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=azure-devops)
+**Frontend:**  
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react) 
+![Next.js](https://img.shields.io/badge/-Next.js-black?style=flat-square&logo=next.js) 
+![Redux Toolkit](https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux) 
+![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css)
+
+**Backend & APIs:**  
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js) 
+![Express](https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express)  
+![MongoDB](https://img.shields.io/badge/-MongoDB-4EA94B?style=flat-square&logo=mongodb)  
+![Mongoose](https://img.shields.io/badge/-Mongoose-800000?style=flat-square)
+
+**Cloud & DevOps:**  
+![Azure](https://img.shields.io/badge/-Azure-0078D4?style=flat-square&logo=microsoft-azure) 
+![AWS](https://img.shields.io/badge/-AWS-FF9900?style=flat-square&logo=amazon-aws)  
+![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat-square&logo=github-actions)  
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker)
 
 ---
 
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NSINGHRAJPUT&show_icons=true&theme=tokyonight" alt="neeraj-stats" />
-  <img src="https://streak-stats.demolab.com/?user=NSINGHRAJPUT&theme=tokyonight" alt="neeraj-streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NSINGHRAJPUT&layout=compact&theme=tokyonight" alt="neeraj-langs" />
+  <img src="https://github-readme-stats.vercel.app/api?username=NSINGHRAJPUT&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://streak-stats.demolab.com?user=NSINGHRAJPUT&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NSINGHRAJPUT&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
-
 
 ---
 
-### 🧭 Visitors
+### 🌍 Connect With Me
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=NSINGHRAJPUT&label=Profile%20views&color=0e75b6&style=flat" alt="neeraj-views" />
-</p>
+- 📫 Email: **nsinghrajputx@gmail.com**
+- 📞 WhatsApp: [+91 9752661779](https://wa.me/919752661779)
+- 🌐 Portfolio: [nsrgfx.in](https://www.nsrgfx.in)
+- 🔗 LinkedIn: [linkedin.nsrgfx.in](https://linkedin.nsrgfx.in)
+- 💻 GitHub: [github.nsrgfx.in](https://github.nsrgfx.in)
+
+---
+
+### 🧠 Fun Facts
+
+- 💡 I believe: *“Once you can put a problem into words, you're already halfway to the solution.”*
+- 🏗️ I love designing clean architectures and optimizing performance.
+- ⚡ Fun side: I enjoy debugging legacy code — yes, seriously 😄
+
+---
+
