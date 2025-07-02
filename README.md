@@ -16,22 +16,14 @@
 ### 🛠️ Tech Stack
 
 **Frontend:**  
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react) 
-![Next.js](https://img.shields.io/badge/-Next.js-black?style=flat-square&logo=next.js) 
-![Redux Toolkit](https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux) 
-![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react) ![Next.js](https://img.shields.io/badge/-Next.js-black?style=flat-square&logo=next.js) ![Redux Toolkit](https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux) ![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css)
 
 **Backend & APIs:**  
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js) 
-![Express](https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express)  
-![MongoDB](https://img.shields.io/badge/-MongoDB-4EA94B?style=flat-square&logo=mongodb)  
-![Mongoose](https://img.shields.io/badge/-Mongoose-800000?style=flat-square)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js) ![Express](https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express) ![MongoDB](https://img.shields.io/badge/-MongoDB-4EA94B?style=flat-square&logo=mongodb) ![Mongoose](https://img.shields.io/badge/-Mongoose-800000?style=flat-square)
 
 **Cloud & DevOps:**  
-![Azure](https://img.shields.io/badge/-Azure-0078D4?style=flat-square&logo=microsoft-azure) 
-![AWS](https://img.shields.io/badge/-AWS-FF9900?style=flat-square&logo=amazon-aws)  
-![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat-square&logo=github-actions)  
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker)
+![Azure](https://img.shields.io/badge/-Azure-0078D4?style=flat-square&logo=microsoft-azure) ![AWS](https://img.shields.io/badge/-AWS-FF9900?style=flat-square&logo=amazon-aws) ![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat-square&logo=github-actions) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker)
+
 
 ---
 
